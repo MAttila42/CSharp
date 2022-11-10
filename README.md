@@ -41,7 +41,7 @@ Search for all occurrences of `MyProject` and replace them with your project nam
 
 ## Useful dotnet commands
 
-`dotnet new console` - Creates a new project.
-`dotnet build` - Builds the project.
-`dotnet run` - Runs the project.
-`dotnet test` - Runs the xUnit tests.
+- `dotnet new console` - Creates a new project.
+- `dotnet build` - Builds the project.
+- `dotnet run` - Runs the project.
+- `dotnet test` - Runs the xUnit tests.
