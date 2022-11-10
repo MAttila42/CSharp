@@ -16,9 +16,9 @@ This is a template to make C#/.NET projects using Visual Studio Code.
 3. Open the `Program.cs` file
 4. Press `F5` to run the project
 
-## Renaming template projects
+## Rename the template project names
 
-Search for all occurrences of `MyProject` and replace them with your project name.
+Search for all occurrences of `MyProject` and replace them with your own projects name.
 
 ## Project Structure
 
