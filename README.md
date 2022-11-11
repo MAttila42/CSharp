@@ -25,7 +25,7 @@ Search for all occurrences of `MyProject` and replace them with your own project
 - `src/` - Contains the source code for the project. Additional project directories should be added here.
 - `tests/` - Contains the xUnit test code for the project.
 - `docs/` - Contains the [documentation](docs/documentation) for the project.
-- Consider following [this gist](https://gist.github.com/davidfowl/ed7564297c61fe9ab814) when creating additionel directories.
+- Consider following [this gist](https://gist.github.com/davidfowl/ed7564297c61fe9ab814) when creating additional directories.
 
 ## Config
 
@@ -33,7 +33,7 @@ Search for all occurrences of `MyProject` and replace them with your own project
 - `extensions.json` - Contains the recommended extensions for the project.
 - `omnisharp.json` - Contains the configuration for the C# extension.
 - `.editorconfig` - Contains C#/.NET conventions and guidelines.
-- `.gitignore` - Contains the default .NET gitignore that shouldn't be committed to source control.
+- `.gitignore` - Contains the default .NET gitignore.
 
 ## Testing
 
@@ -41,7 +41,7 @@ Search for all occurrences of `MyProject` and replace them with your own project
 
 ## Useful dotnet commands
 
-- `dotnet new console` - Creates a new project.
+- `dotnet new console` - Creates a new console app project.
 - `dotnet build` - Builds the project.
 - `dotnet run` - Runs the project.
 - `dotnet test` - Runs the xUnit tests.
